@@ -4,10 +4,11 @@
   <version>1.0</version>
   <vendor url="https://github.com/apaunov/KCoroutine">apaunov</vendor>
 
-<!--  <description><![CDATA[-->
-<!--      Enter short description for your plugin here.<br>-->
-<!--      <em>most HTML tags may be used</em>-->
-<!--    ]]></description>-->
+  <description><![CDATA[
+    A dark theme in Kotlin Coroutine style.
+    <br/>
+    Initial release
+  ]]></description>
 
 <!--  <change-notes><![CDATA[-->
 <!--      Add change notes here.<br>-->
