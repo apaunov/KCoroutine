@@ -1,0 +1,16 @@
+{
+  "name": "KCoroutine",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/KCoroutine.xml",
+  "colors": {
+    "background": "#042132",
+    "backgroundTabs": "#042D50"
+  },
+  "ui": {
+    "*": {
+      "background": "background",
+      "inactiveBackground": "backgroundTabs"
+    }
+  }
+}
