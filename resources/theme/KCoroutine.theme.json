@@ -11,6 +11,11 @@
     "*": {
       "background": "background",
       "inactiveBackground": "backgroundTabs"
+    },
+    "Button.background": "background",
+
+    "FileColor": {
+      "Yellow": "backgroundTabs"
     }
   }
 }
