@@ -9,12 +9,15 @@
     "defaultButton": "#044657",
     "accent": "#ff007e",
     "primaryText": "#ffffff",
-    "secondaryText": "#A0A0A0"
+    "selectionInactive": "#385564"
   },
   "ui": {
     "*": {
       "background": "background",
-      "inactiveBackground": "backgroundTabs"
+      "inactiveBackground": "backgroundTabs",
+
+      "selectionBackground": "defaultButton",
+      "selectionInactiveBackground": "selectionInactive"
     },
     "Button.background": "background",
     "FileColor": {
