@@ -1,10 +1,10 @@
 <scheme name="KCoroutine" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-12T18:52:22</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.6.2.0</property>
-    <property name="modified">2020-05-29T21:53:13</property>
-    <property name="originalScheme">Darcula copy</property>
+    <property name="created">2023-01-07T23:05:51</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-07T23:06:05</property>
+    <property name="originalScheme">KCoroutine</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="ff007e" />

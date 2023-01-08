@@ -25,7 +25,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="62e1b962-bbc5-4d7e-a7f8-e3139b3a2860" path="/theme/KCoroutine.theme.json"/>
+        <themeProvider id="com.github.apaunov.kcoroutine" path="/KCoroutine.theme.json"/>
     </extensions>
 
     <actions>
