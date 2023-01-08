@@ -5,7 +5,10 @@
   "editorScheme": "/KCoroutine.xml",
   "colors": {
     "background": "#042132",
-    "backgroundTabs": "#042D50"
+    "backgroundTabs": "#042D50",
+    "defaultButton": "#044657",
+    "accent": "#ff007e",
+    "primaryText": "#ffffff"
   },
   "ui": {
     "*": {
@@ -16,6 +19,29 @@
 
     "FileColor": {
       "Yellow": "backgroundTabs"
+    },
+
+    "ComboBox": {
+      "background": "background",
+      "selectionBackground": "defaultButton",
+      "nonEditableBackground": "defaultButton",
+      "ArrowButton.nonEditableBackground": "defaultButton"
+    },
+
+    "Button": {
+      "startBackground": "defaultButton",
+      "endBackground": "defaultButton",
+
+      "default": {
+        "foreground": "primaryText",
+        "startBackground": "accent",
+        "endBackground": "accent"
+      }
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#044657"
     }
   }
 }
