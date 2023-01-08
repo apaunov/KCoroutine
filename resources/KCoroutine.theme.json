@@ -8,7 +8,8 @@
     "backgroundTabs": "#042D50",
     "defaultButton": "#044657",
     "accent": "#ff007e",
-    "primaryText": "#ffffff"
+    "primaryText": "#ffffff",
+    "secondaryText": "#A0A0A0"
   },
   "ui": {
     "*": {
@@ -16,27 +17,27 @@
       "inactiveBackground": "backgroundTabs"
     },
     "Button.background": "background",
-
     "FileColor": {
       "Yellow": "backgroundTabs"
     },
-
     "ComboBox": {
       "background": "background",
       "selectionBackground": "defaultButton",
       "nonEditableBackground": "defaultButton",
       "ArrowButton.nonEditableBackground": "defaultButton"
     },
-
     "Button": {
       "startBackground": "defaultButton",
       "endBackground": "defaultButton",
-
       "default": {
         "foreground": "primaryText",
         "startBackground": "accent",
         "endBackground": "accent"
       }
+    },
+    "Popup": {
+      "paintBorder": true,
+      "inactiveBorderColor": "defaultButton"
     }
   },
   "icons": {
