@@ -50,6 +50,12 @@
     "CompletionPopup": {
       "selectionInactiveBackground": "background",
       "selectionBackground": "background"
+    },
+    "ProgressBar": {
+      "trackColor": "defaultButton",
+      "progressColor": "accent",
+      "indeterminateStartColor": "accent",
+      "indeterminateEndColor": "defaultButton"
     }
   },
   "icons": {
