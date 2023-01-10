@@ -15,11 +15,13 @@
     "*": {
       "background": "background",
       "inactiveBackground": "backgroundTabs",
-
       "selectionBackground": "defaultButton",
       "selectionInactiveBackground": "selectionInactive"
     },
-    "Button.background": "background",
+    "TabbedPane": {
+      "underlineColor": "accent",
+      "hoverColor": "defaultButton"
+    },
     "FileColor": {
       "Yellow": "backgroundTabs"
     },
@@ -28,6 +30,9 @@
       "selectionBackground": "defaultButton",
       "nonEditableBackground": "defaultButton",
       "ArrowButton.nonEditableBackground": "defaultButton"
+    },
+    "ActionButton": {
+      "pressedBackground": "defaultButton"
     },
     "Button": {
       "startBackground": "defaultButton",
@@ -41,6 +46,10 @@
     "Popup": {
       "paintBorder": true,
       "inactiveBorderColor": "defaultButton"
+    },
+    "CompletionPopup": {
+      "selectionInactiveBackground": "background",
+      "selectionBackground": "background"
     }
   },
   "icons": {
