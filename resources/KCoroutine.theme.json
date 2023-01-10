@@ -47,14 +47,14 @@
     "Popup": {
       "paintBorder": true,
       "background": "defaultButton",
-      "borderColor": "defaultButton",
+      "borderColor": "selectionInactive",
       "Header.activeBackground": "defaultButton",
       "Header.inactiveBackground": "selectionInactive",
-      "inactiveBorderColor": "defaultButton"
+      "inactiveBorderColor": "selectionInactive"
     },
     "CompletionPopup": {
-      "selectionInactiveBackground": "background",
-      "selectionBackground": "background"
+      "selectionInactiveBackground": "defaultButton",
+      "selectionBackground": "defaultButton"
     },
     "ProgressBar": {
       "trackColor": "defaultButton",
