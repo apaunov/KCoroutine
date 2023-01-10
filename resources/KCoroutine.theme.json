@@ -32,7 +32,9 @@
       "ArrowButton.nonEditableBackground": "defaultButton"
     },
     "ActionButton": {
-      "pressedBackground": "defaultButton"
+      "pressedBackground": "defaultButton",
+      "pressedBorderColor": "accent",
+      "hoverBackground": "selectionInactive"
     },
     "Button": {
       "startBackground": "defaultButton",
@@ -45,6 +47,10 @@
     },
     "Popup": {
       "paintBorder": true,
+      "background": "defaultButton",
+      "borderColor": "defaultButton",
+      "Header.activeBackground": "defaultButton",
+      "Header.inactiveBackground": "selectionInactive",
       "inactiveBorderColor": "defaultButton"
     },
     "CompletionPopup": {
