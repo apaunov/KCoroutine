@@ -18,10 +18,6 @@
       "selectionBackground": "defaultButton",
       "selectionInactiveBackground": "selectionInactive"
     },
-    "TabbedPane": {
-      "underlineColor": "accent",
-      "hoverColor": "defaultButton"
-    },
     "FileColor": {
       "Yellow": "backgroundTabs"
     },
