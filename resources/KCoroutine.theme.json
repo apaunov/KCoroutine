@@ -46,7 +46,7 @@
     },
     "Popup": {
       "paintBorder": true,
-      "background": "defaultButton",
+      "background": "background",
       "borderColor": "selectionInactive",
       "Header.activeBackground": "defaultButton",
       "Header.inactiveBackground": "selectionInactive",
