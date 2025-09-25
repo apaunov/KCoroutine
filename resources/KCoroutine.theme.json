@@ -23,6 +23,9 @@
       "underlineColor": "accent",
       "hoverColor": "defaultButton"
     },
+    "SplitPane": {
+      "background": "background"
+    },
     "FileColor": {
       "Yellow": "inactiveTabs"
     },
