@@ -587,8 +587,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="848400" />
+        <option name="FOREGROUND" value="e0e0e0" />
+        <option name="BACKGROUND" value="505000" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
