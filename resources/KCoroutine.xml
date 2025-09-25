@@ -1,7 +1,7 @@
 <scheme name="KCoroutine" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2025.1.3.7</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2025.2.2.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="BAFFBA" />
@@ -11,14 +11,14 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="042132" />
     <option name="DELETED_LINES_COLOR" value="A0A0A0" />
     <option name="DIFF_SEPARATOR_WAVE" value="6BEF28" />
-    <option name="DOCUMENTATION_COLOR" value="042132" />
+    <option name="DOCUMENTATION_COLOR" value="21003E" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="824E9B" />
     <option name="GUTTER_BACKGROUND" value="062B3D" />
     <option name="HINT_BORDER" value="0C7FC2" />
     <option name="INFORMATION_HINT" value="044657" />
     <option name="LINE_NUMBERS_COLOR" value="74A4D4" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="FFFFFF" />
-    <option name="LOOKUP_COLOR" value="042132" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D318A6" />
+    <option name="LOOKUP_COLOR" value="21003E" />
     <option name="MODIFIED_LINES_COLOR" value="99CCFF" />
     <option name="READONLY_BACKGROUND" value="042132" />
     <option name="SELECTION_BACKGROUND" value="5D00AF" />
@@ -575,7 +575,7 @@
       <value>
         <option name="FOREGROUND" value="41a5ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="ffb0" />
+        <option name="ERROR_STRIPE_COLOR" value="41a5ff" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />

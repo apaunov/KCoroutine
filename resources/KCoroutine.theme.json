@@ -4,18 +4,19 @@
   "dark": true,
   "editorScheme": "/KCoroutine.xml",
   "colors": {
-    "background": "#0e1033",
-    "backgroundTabs": "#042D50",
-    "defaultButton": "#044657",
+    "background": "#21003E",
+    "inactiveTabs": "#21003E",
+    "activeTabs": "#A330EB",
+    "defaultButton": "#743882",
     "accent": "#ff007e",
-    "primaryText": "#ffffff",
-    "selectionInactive": "#385564"
+    "primaryText": "#D0D8E0",
+    "selectionInactive": "#743882"
   },
   "ui": {
     "*": {
       "background": "background",
-      "inactiveBackground": "backgroundTabs",
-      "selectionBackground": "defaultButton",
+      "inactiveBackground": "inactiveTabs",
+      "selectionBackground": "activeTabs",
       "selectionInactiveBackground": "selectionInactive"
     },
     "TabbedPane": {
@@ -23,7 +24,7 @@
       "hoverColor": "defaultButton"
     },
     "FileColor": {
-      "Yellow": "backgroundTabs"
+      "Yellow": "inactiveTabs"
     },
     "ComboBox": {
       "background": "background",
@@ -53,8 +54,9 @@
       "inactiveBorderColor": "selectionInactive"
     },
     "CompletionPopup": {
+      "selectionBackground": "defaultButton",
       "selectionInactiveBackground": "defaultButton",
-      "selectionBackground": "defaultButton"
+      "Advertiser.foreground": "accent"
     },
     "ProgressBar": {
       "trackColor": "defaultButton",
@@ -69,7 +71,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#044657"
+      "Checkbox.Background.Default.Dark": "#743882"
     }
   }
 }
