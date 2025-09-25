@@ -72,10 +72,7 @@
       "lightSelectionBackground": "defaultButton"
     },
     "Tree": {
-      "rowHeight": 24,
-      "Selection": {
-        "arc": 30
-      }
+      "rowHeight": 24
     }
   },
   "icons": {
