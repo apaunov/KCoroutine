@@ -24,6 +24,8 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D318A6" />
     <option name="LOOKUP_COLOR" value="21003E" />
     <option name="MODIFIED_LINES_COLOR" value="99CCFF" />
+    <option name="MODIFIED_TAB_ICON" value="C9A240" />
+    <option name="NOTIFICATION_BACKGROUND" value="62D024" />
     <option name="PROMOTION_PANE" value="D318A6" />
     <option name="QUESTION_HINT" value="D318A6" />
     <option name="READONLY_BACKGROUND" value="21003E" />
@@ -467,6 +469,11 @@
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
       <value />
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff02" />
+      </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
