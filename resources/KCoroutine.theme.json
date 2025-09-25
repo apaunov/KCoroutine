@@ -67,6 +67,12 @@
     "Plugins": {
       "hoverBackground": "selectionInactive",
       "lightSelectionBackground": "defaultButton"
+    },
+    "Tree": {
+      "rowHeight": 24,
+      "Selection": {
+        "arc": 30
+      }
     }
   },
   "icons": {
