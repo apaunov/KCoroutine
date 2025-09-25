@@ -1,10 +1,10 @@
 {
   "name": "KCoroutine",
+  "author": "apaunov",
   "dark": true,
-  "author": "",
   "editorScheme": "/KCoroutine.xml",
   "colors": {
-    "background": "#042132",
+    "background": "#0e1033",
     "backgroundTabs": "#042D50",
     "defaultButton": "#044657",
     "accent": "#ff007e",
