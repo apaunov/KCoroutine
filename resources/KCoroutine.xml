@@ -12,25 +12,27 @@
     <option name="ANNOTATIONS_COLOR" value="FFFFFF" />
     <option name="CARET_COLOR" value="FF007E" />
     <option name="CARET_ROW_COLOR" value="21003E" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="042132" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="21003E" />
     <option name="DELETED_LINES_COLOR" value="A0A0A0" />
     <option name="DIFF_SEPARATOR_WAVE" value="6BEF28" />
     <option name="DOCUMENTATION_COLOR" value="21003E" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="824E9B" />
     <option name="GUTTER_BACKGROUND" value="062B3D" />
-    <option name="HINT_BORDER" value="0C7FC2" />
-    <option name="INFORMATION_HINT" value="044657" />
+    <option name="HINT_BORDER" value="D318A6" />
+    <option name="INFORMATION_HINT" value="D318A6" />
     <option name="LINE_NUMBERS_COLOR" value="74A4D4" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D318A6" />
     <option name="LOOKUP_COLOR" value="21003E" />
     <option name="MODIFIED_LINES_COLOR" value="99CCFF" />
-    <option name="READONLY_BACKGROUND" value="042132" />
+    <option name="PROMOTION_PANE" value="D318A6" />
+    <option name="QUESTION_HINT" value="D318A6" />
+    <option name="READONLY_BACKGROUND" value="21003E" />
     <option name="SELECTION_BACKGROUND" value="5D00AF" />
     <option name="SELECTION_FOREGROUND" value="FFFFFF" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="2AA198" />
-    <option name="ScrollBar.Mac.thumbColor" value="19615B" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="9B00FF" />
+    <option name="ScrollBar.Mac.thumbColor" value="3A208D" />
     <option name="TAB_UNDERLINE" value="FF007E" />
-    <option name="TOOLTIP" value="044657" />
+    <option name="TOOLTIP" value="D318A6" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="0C456A" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3B6B99" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="0C7FC2" />
@@ -61,7 +63,7 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="EFFECT_COLOR" value="44657" />
+        <option name="EFFECT_COLOR" value="3a208d" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -136,7 +138,7 @@
     </option>
     <option name="CodeWithMe.USER_2_SELECTION">
       <value>
-        <option name="BACKGROUND" value="440020" />
+        <option name="BACKGROUND" value="3a208d" />
       </value>
     </option>
     <option name="CodeWithMe.USER_4_SELECTION">
@@ -322,20 +324,20 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="94264" />
-        <option name="ERROR_STRIPE_COLOR" value="b537d" />
+        <option name="BACKGROUND" value="5a0066" />
+        <option name="ERROR_STRIPE_COLOR" value="5f009c" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="384c38" />
-        <option name="ERROR_STRIPE_COLOR" value="baffba" />
+        <option name="BACKGROUND" value="c470c" />
+        <option name="ERROR_STRIPE_COLOR" value="ff00" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="4d6680" />
-        <option name="ERROR_STRIPE_COLOR" value="99ccff" />
+        <option name="BACKGROUND" value="4124aa" />
+        <option name="ERROR_STRIPE_COLOR" value="8b6cff" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
