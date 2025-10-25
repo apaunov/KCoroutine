@@ -172,6 +172,7 @@
         <option name="FOREGROUND" value="68e19c" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="68e19c" />
@@ -259,7 +260,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="68e19c" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
