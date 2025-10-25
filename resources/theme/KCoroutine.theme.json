@@ -4,13 +4,13 @@
   "dark": true,
   "editorScheme": "/KCoroutine.xml",
   "colors": {
-    "background": "#21003E",
-    "inactiveTabs": "#21003E",
-    "activeTabs": "#A330EB",
-    "defaultButton": "#743882",
-    "accent": "#FF007E",
-    "primaryText": "#D0D8E0",
-    "selectionInactive": "#743882"
+    "background": "#0E1033",
+    "inactiveTabs": "#0E1033",
+    "activeTabs": "#006B61",
+    "defaultButton": "#1B3C5C",
+    "accent": "#00FFE6",
+    "primaryText": "#000000",
+    "selectionInactive": "#1B3C5C"
   },
   "ui": {
     "*": {
@@ -77,7 +77,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#743882"
+      "Checkbox.Background.Default.Dark": "#1B3C5C"
     }
   }
 }
