@@ -5,6 +5,7 @@
   "editorScheme": "/KCoroutine.xml",
   "colors": {
     "background": "#0E1033",
+    "disabledBackground": "#1F2933",
     "inactiveTabs": "#0E1033",
     "activeTabs": "#006B61",
     "defaultButton": "#1B3C5C",
@@ -17,7 +18,8 @@
       "background": "background",
       "inactiveBackground": "inactiveTabs",
       "selectionBackground": "activeTabs",
-      "selectionInactiveBackground": "selectionInactive"
+      "selectionInactiveBackground": "selectionInactive",
+      "disabledBackground": "disabledBackground"
     },
     "TabbedPane": {
       "underlineColor": "accent",
@@ -77,7 +79,8 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#1B3C5C"
+      "Checkbox.Background.Default.Dark": "#1B3C5C",
+      "Checkbox.Background.Disabled.Dark": "#1F2933"
     }
   }
 }
