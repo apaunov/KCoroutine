@@ -5,23 +5,29 @@
   "editorScheme": "/KCoroutine.xml",
   "colors": {
     "background": "#0E1033",
-    "disabledBackground": "#1F2933",
-    "inactiveTabs": "#0E1033",
-    "activeTabs": "#006B61",
-    "defaultButton": "#1B3C5C",
+    "disabledBackground": "#1A2342",
+    "inactiveTabs": "#121844",
+    "activeTabs": "#155E75",
+    "defaultButton": "#214970",
     "accent": "#00FFE6",
-    "primaryText": "#000000",
-    "selectionInactive": "#1B3C5C"
+    "primaryText": "#EAF2FF",
+    "secondaryText": "#A9BCD6",
+    "selectionInactive": "#214970"
   },
   "ui": {
     "*": {
       "background": "background",
+      "foreground": "primaryText",
       "inactiveBackground": "inactiveTabs",
       "selectionBackground": "activeTabs",
+      "selectionForeground": "primaryText",
       "selectionInactiveBackground": "selectionInactive",
-      "disabledBackground": "disabledBackground"
+      "selectionInactiveForeground": "primaryText",
+      "disabledBackground": "disabledBackground",
+      "disabledForeground": "secondaryText"
     },
     "TabbedPane": {
+      "foreground": "primaryText",
       "underlineColor": "accent",
       "hoverColor": "defaultButton"
     },
@@ -33,7 +39,9 @@
     },
     "ComboBox": {
       "background": "background",
+      "foreground": "primaryText",
       "selectionBackground": "defaultButton",
+      "selectionForeground": "primaryText",
       "nonEditableBackground": "defaultButton",
       "ArrowButton.nonEditableBackground": "defaultButton"
     },
@@ -42,10 +50,11 @@
       "hoverBackground": "selectionInactive"
     },
     "Button": {
+      "foreground": "primaryText",
       "startBackground": "defaultButton",
       "endBackground": "defaultButton",
       "default": {
-        "foreground": "primaryText",
+        "foreground": "#04131F",
         "startBackground": "accent",
         "endBackground": "accent"
       }
@@ -59,6 +68,7 @@
       "inactiveBorderColor": "selectionInactive"
     },
     "CompletionPopup": {
+      "foreground": "primaryText",
       "selectionBackground": "defaultButton",
       "selectionInactiveBackground": "defaultButton",
       "Advertiser.foreground": "accent"
@@ -73,7 +83,20 @@
       "hoverBackground": "selectionInactive",
       "lightSelectionBackground": "defaultButton"
     },
+    "Label": {
+      "foreground": "primaryText",
+      "disabledForeground": "secondaryText"
+    },
+    "Panel": {
+      "background": "background"
+    },
+    "ToolTip": {
+      "background": "defaultButton",
+      "foreground": "primaryText"
+    },
     "Tree": {
+      "foreground": "primaryText",
+      "selectionForeground": "primaryText",
       "rowHeight": 24
     }
   },
