@@ -6,13 +6,16 @@
   "colors": {
     "background": "#0E1033",
     "disabledBackground": "#1A2342",
-    "inactiveTabs": "#121844",
-    "activeTabs": "#155E75",
-    "defaultButton": "#214970",
+    "inactiveTabs": "#151A4D",
+    "activeTabs": "#2A2F8F",
+    "defaultButton": "#273A82",
+    "segmentedSelected": "#313AA8",
+    "segmentedSelectedFocused": "#3944BC",
+    "segmentedSelectedBorder": "#5D73FF",
     "accent": "#00FFE6",
     "primaryText": "#EAF2FF",
     "secondaryText": "#A9BCD6",
-    "selectionInactive": "#214970"
+    "selectionInactive": "#22306C"
   },
   "ui": {
     "*": {
@@ -28,8 +31,20 @@
     },
     "TabbedPane": {
       "foreground": "primaryText",
+      "selectedBackground": "activeTabs",
+      "selectedForeground": "primaryText",
+      "underlinedTabBackground": "activeTabs",
       "underlineColor": "accent",
       "hoverColor": "defaultButton"
+    },
+    "DefaultTabs": {
+      "foreground": "primaryText",
+      "selectedBackground": "activeTabs",
+      "selectedForeground": "primaryText",
+      "underlinedTabBackground": "activeTabs",
+      "underlineColor": "accent",
+      "hoverBackground": "defaultButton",
+      "inactiveColoredFileBackground": "inactiveTabs"
     },
     "SplitPane": {
       "background": "background"
@@ -48,6 +63,12 @@
     "ActionButton": {
       "pressedBackground": "defaultButton",
       "hoverBackground": "selectionInactive"
+    },
+    "SegmentedButton": {
+      "selectedButtonColor": "segmentedSelected",
+      "focusedSelectedButtonColor": "segmentedSelectedFocused",
+      "selectedStartBorderColor": "segmentedSelectedBorder",
+      "selectedEndBorderColor": "segmentedSelectedBorder"
     },
     "Button": {
       "foreground": "primaryText",
