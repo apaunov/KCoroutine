@@ -7,21 +7,23 @@
 
     <vendor url="https://github.com/apaunov">apaunov</vendor>
 
-    <idea-version since-build="191.0"/>
+    <idea-version since-build="251"/>
 
     <description><![CDATA[
-    A dark and misty theme in Kotlin Coroutine style.
+        A dark and misty theme in Kotlin Coroutine style.
     ]]>
     </description>
 
     <change-notes><![CDATA[
-    Improved the theme's colours and overall UI in the IDE.
+        Improved the theme's colours and overall UI in the IDE.
     ]]>
     </change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.apaunov.kcoroutine" path="/theme/KCoroutine.theme.json"/>
+        <themeProvider
+                id="com.github.apaunov.kcoroutine"
+                path="/theme/KCoroutine.theme.json"/>
     </extensions>
 </idea-plugin>

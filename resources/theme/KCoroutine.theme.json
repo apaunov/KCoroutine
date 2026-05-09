@@ -31,20 +31,13 @@
     },
     "TabbedPane": {
       "foreground": "primaryText",
-      "selectedBackground": "activeTabs",
-      "selectedForeground": "primaryText",
-      "underlinedTabBackground": "activeTabs",
       "underlineColor": "accent",
       "hoverColor": "defaultButton"
     },
     "DefaultTabs": {
-      "foreground": "primaryText",
-      "selectedBackground": "activeTabs",
-      "selectedForeground": "primaryText",
       "underlinedTabBackground": "activeTabs",
       "underlineColor": "accent",
-      "hoverBackground": "defaultButton",
-      "inactiveColoredFileBackground": "inactiveTabs"
+      "hoverBackground": "defaultButton"
     },
     "SplitPane": {
       "background": "background"
