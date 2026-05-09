@@ -13,6 +13,7 @@
     "segmentedSelectedFocused": "#3944BC",
     "segmentedSelectedBorder": "#5D73FF",
     "accent": "#00FFE6",
+    "accentText": "#04131F",
     "primaryText": "#EAF2FF",
     "secondaryText": "#A9BCD6",
     "selectionInactive": "#22306C"
@@ -38,6 +39,14 @@
       "underlinedTabBackground": "activeTabs",
       "underlineColor": "accent",
       "hoverBackground": "defaultButton"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "activeTabs",
+      "underlineColor": "accent",
+      "inactiveColoredFileBackground": "inactiveTabs"
+    },
+    "ToolWindow": {
+      "HeaderTab.underlineColor": "accent"
     },
     "SplitPane": {
       "background": "background"
@@ -68,7 +77,7 @@
       "startBackground": "defaultButton",
       "endBackground": "defaultButton",
       "default": {
-        "foreground": "#04131F",
+        "foreground": "accentText",
         "startBackground": "accent",
         "endBackground": "accent"
       }
