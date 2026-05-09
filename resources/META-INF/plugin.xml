@@ -9,14 +9,16 @@
 
     <idea-version since-build="251"/>
 
-    <description><![CDATA[
-        A dark and misty theme in Kotlin Coroutine style.
-    ]]>
+    <description>
+        <![CDATA[
+            A dark and misty theme in Kotlin Coroutine style.
+        ]]>
     </description>
 
-    <change-notes><![CDATA[
-        Improved the theme's colours and overall UI in the IDE.
-    ]]>
+    <change-notes>
+        <![CDATA[
+            Improved the theme's colours and overall UI in the IDE.
+        ]]>
     </change-notes>
 
     <depends>com.intellij.modules.platform</depends>
