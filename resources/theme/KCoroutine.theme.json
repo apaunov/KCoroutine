@@ -4,7 +4,7 @@
   "dark": true,
   "editorScheme": "/KCoroutine.xml",
   "colors": {
-    "background": "#0E1033",
+    "background": "#04040E",
     "disabledBackground": "#1A2342",
     "inactiveTabs": "#151A4D",
     "activeTabs": "#2A2F8F",
@@ -14,7 +14,7 @@
     "segmentedSelectedBorder": "#5D73FF",
     "accent": "#00FFE6",
     "accentText": "#04131F",
-    "primaryText": "#EAF2FF",
+    "primaryText": "#D8F8FF",
     "secondaryText": "#A9BCD6",
     "selectionInactive": "#22306C"
   },
